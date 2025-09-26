@@ -1,6 +1,6 @@
 # Kali Linux 2025.3 "NeuralNet"
 
-![Kali Linux Bringing AI To Kali Linux](Kali Linux Bringing AI To Kali Linux.png)
+<img width="1024" height="1024" alt="Kali Linux Bringing AI To Kali Linux" src="https://github.com/user-attachments/assets/e8c352d6-2437-4657-a545-0d33e318601c" />
 
 🚀 **Kali Linux 2025.3** introduces AI-powered penetration testing and security auditing.  
 This release is a leap forward, integrating machine learning into offensive security workflows.
